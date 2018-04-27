@@ -1,0 +1,56 @@
+E:\Learning\IT\All Code\Artificial Intelligence\Caro\Caro\bin\Debug\Caro.exe
+E:\Learning\IT\All Code\Artificial Intelligence\Caro\Caro\bin\Debug\Caro.pdb
+E:\Learning\IT\All Code\Artificial Intelligence\Caro\Caro\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Learning\IT\All Code\Artificial Intelligence\Caro\Caro\obj\x86\Debug\Caro.Properties.Resources.resources
+E:\Learning\IT\All Code\Artificial Intelligence\Caro\Caro\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Learning\IT\All Code\Artificial Intelligence\Caro\Caro\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Learning\IT\All Code\Artificial Intelligence\Caro\Caro\obj\x86\Debug\Caro.exe
+E:\Learning\IT\All Code\Artificial Intelligence\Caro\Caro\obj\x86\Debug\Caro.pdb
+G:\Caro\Caro\obj\x86\Debug\Caro.exe
+G:\Caro\Caro\obj\x86\Debug\Caro.pdb
+G:\Caro\Caro\bin\Debug\Caro.exe
+G:\Caro\Caro\bin\Debug\Caro.pdb
+G:\Caro\Caro\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Caro\Caro\obj\x86\Debug\Caro.Form1.resources
+G:\Caro\Caro\obj\x86\Debug\Caro.Properties.Resources.resources
+G:\Caro\Caro\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Caro\Caro\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Learning\IT\All Code\Artificial Intelligence\Caro\Caro\obj\x86\Debug\Caro.Form2.resources
+E:\Learning\IT\All Code\Artificial Intelligence\Caro\Caro\obj\x86\Debug\Caro.CaroChess.resources
+E:\Learning\IT\All Code\Artificial Intelligence\Caro\Caro\obj\x86\Debug\Caro.Form1.resources
+E:\Learning\IT\All Code\Artificial Intelligence\Caro\Caro\obj\x86\Debug\Caro.AboutBox1.resources
+C:\Users\Laptop\Downloads\Caro\Caro - Le Ba Khanh Trinh (09110135)\Caro\obj\x86\Debug\Caro.exe
+C:\Users\Laptop\Downloads\Caro\Caro - Le Ba Khanh Trinh (09110135)\Caro\obj\x86\Debug\Caro.pdb
+C:\Users\Laptop\Downloads\Caro\Caro - Le Ba Khanh Trinh (09110135)\Caro\bin\Debug\Caro.exe
+C:\Users\Laptop\Downloads\Caro\Caro - Le Ba Khanh Trinh (09110135)\Caro\bin\Debug\Caro.pdb
+C:\Users\Laptop\Downloads\Caro\Caro - Le Ba Khanh Trinh (09110135)\Caro\obj\x86\Debug\Caro.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\Downloads\Caro\Caro - Le Ba Khanh Trinh (09110135)\Caro\obj\x86\Debug\Caro.AboutBox1.resources
+C:\Users\Laptop\Downloads\Caro\Caro - Le Ba Khanh Trinh (09110135)\Caro\obj\x86\Debug\Caro.CaroChess.resources
+C:\Users\Laptop\Downloads\Caro\Caro - Le Ba Khanh Trinh (09110135)\Caro\obj\x86\Debug\Caro.Form1.resources
+C:\Users\Laptop\Downloads\Caro\Caro - Le Ba Khanh Trinh (09110135)\Caro\obj\x86\Debug\Caro.Form2.resources
+C:\Users\Laptop\Downloads\Caro\Caro - Le Ba Khanh Trinh (09110135)\Caro\obj\x86\Debug\Caro.Properties.Resources.resources
+C:\Users\Laptop\Downloads\Caro\Caro - Le Ba Khanh Trinh (09110135)\Caro\obj\x86\Debug\Caro.csproj.GenerateResource.Cache
+D:\CNTT\Visual Studio\Projects\Caro\Caro\obj\x86\Debug\Caro.exe
+D:\CNTT\Visual Studio\Projects\Caro\Caro\obj\x86\Debug\Caro.pdb
+D:\CNTT\Visual Studio\Projects\Caro\Caro\bin\Debug\Caro.exe
+D:\CNTT\Visual Studio\Projects\Caro\Caro\bin\Debug\Caro.pdb
+D:\CNTT\Visual Studio\Projects\Caro\Caro\obj\x86\Debug\Caro.csprojResolveAssemblyReference.cache
+D:\CNTT\Visual Studio\Projects\Caro\Caro\obj\x86\Debug\Caro.Form1.resources
+D:\CNTT\Visual Studio\Projects\Caro\Caro\obj\x86\Debug\Caro.Form2.resources
+D:\CNTT\Visual Studio\Projects\Caro\Caro\obj\x86\Debug\Caro.Properties.Resources.resources
+D:\CNTT\Visual Studio\Projects\Caro\Caro\obj\x86\Debug\Caro.csproj.GenerateResource.Cache
+D:\CNTT\Visual Studio\Projects\Caro\Caro\obj\x86\Debug\Caro.TacGia.resources
+D:\CNTT\Visual Studio\Projects\Caro\Caro\obj\x86\Debug\Caro.Graphic.resources
+D:\CNTT\Visual Studio\Projects\Caro\Caro\obj\x86\Debug\Caro.CoCaro.resources
+E:\CNTT\Visual Studio\Projects\Caro\Caro\obj\x86\Debug\Caro.exe
+E:\CNTT\Visual Studio\Projects\Caro\Caro\obj\x86\Debug\Caro.pdb
+E:\CNTT\Visual Studio\Projects\Caro\Caro\bin\Debug\Caro.exe
+E:\CNTT\Visual Studio\Projects\Caro\Caro\bin\Debug\Caro.pdb
+E:\CNTT\Visual Studio\Projects\Caro\Caro\obj\x86\Debug\Caro.csprojResolveAssemblyReference.cache
+E:\CNTT\Visual Studio\Projects\Caro\Caro\obj\x86\Debug\Caro.Graphic.resources
+E:\CNTT\Visual Studio\Projects\Caro\Caro\obj\x86\Debug\Caro.TacGia.resources
+E:\CNTT\Visual Studio\Projects\Caro\Caro\obj\x86\Debug\Caro.CoCaro.resources
+E:\CNTT\Visual Studio\Projects\Caro\Caro\obj\x86\Debug\Caro.Form1.resources
+E:\CNTT\Visual Studio\Projects\Caro\Caro\obj\x86\Debug\Caro.Form2.resources
+E:\CNTT\Visual Studio\Projects\Caro\Caro\obj\x86\Debug\Caro.Properties.Resources.resources
+E:\CNTT\Visual Studio\Projects\Caro\Caro\obj\x86\Debug\Caro.csproj.GenerateResource.Cache
